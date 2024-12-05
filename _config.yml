@@ -5,4 +5,4 @@ relative_links:
   collections: true
 theme: jekyll-theme-minimal
 include:
-  - Introduction.md
+  - introduction.md
