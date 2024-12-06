@@ -18,4 +18,4 @@ Schrödinger's cat is a thought experiment, sometimes described as a paradox, de
         async>
 </script>
 
-<iframe src="https://www.w3schools.com"></iframe>
+<iframe src="https://www.dynamic.xyz"></iframe>
