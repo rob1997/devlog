@@ -1,4 +1,4 @@
-### [Log #1](log-1.md)
+### [Log #2](log-2.md)
 
 <hr/>
 
@@ -10,7 +10,7 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis und
 
 **Date:** 6/12/2024
 
-### [Log #2](log-2.md)
+### [Log #1](log-1.md)
 
 <hr/>
 
