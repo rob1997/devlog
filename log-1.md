@@ -17,5 +17,3 @@ Schrödinger's cat is a thought experiment, sometimes described as a paradox, de
         crossorigin="anonymous"
         async>
 </script>
-
-<iframe src="https://www.dynamic.xyz"></iframe>
