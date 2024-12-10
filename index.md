@@ -4,22 +4,22 @@
 
 <hr/>
 
-**Title:** Lorem Ipsum
+**Title:** Track Generator
 
 **Description:**
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+A Track Generator package that Procedurally Generates Closed Tracks from Voronoi Diagrams using C# Jobs System, Splines and Procedural Mesh Generation.
 
-**Date:** 6/12/2024
+**Date:** 9/12/2024
 
 ### [Log #1](log-1.md)
 
 <hr/>
 
-**Title:** Lorem Ipsum
+**Title:** Schrödinger's cat
 
 **Description:**
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+A short account of a bug that wasn't bugging while observed (debugged).
 
 **Date:** 6/12/2024
