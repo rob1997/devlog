@@ -86,7 +86,7 @@ If you would like to try out the package you can find it [here](https://github.c
         data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="top"
-        data-theme="light"
+        data-theme="dark"
         data-lang="en"
         crossorigin="anonymous"
         async>

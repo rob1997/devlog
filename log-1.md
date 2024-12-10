@@ -20,7 +20,7 @@ It took me a while, a whole day! to realize this.
         data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="top"
-        data-theme="light"
+        data-theme="dark"
         data-lang="en"
         crossorigin="anonymous"
         async>
