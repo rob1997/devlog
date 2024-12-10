@@ -4,7 +4,7 @@
 
 ![track_1](/assets/log-2/track_1.png)
 
-I was recently working on training a self-driving car using Reinforcement Learning in Unity via [ml-agents](https://github.com/Unity-Technologies/ml-agents). When training AI in a simulated environment your AI is a good as your environment. So I made a Track Generator package that Procedurally Generates Closed Tracks from Voronoi Diagrams using C# Jobs System, Splines and Procedural Mesh Generation.
+I was recently working on training a self-driving car using Reinforcement Learning in Unity via [ml-agents](https://github.com/Unity-Technologies/ml-agents). When training AI in a simulated environment your AI is as good as your environment. So I made a Track Generator package that Procedurally Generates Closed Tracks from Voronoi Diagrams using C# Jobs System, Splines and Procedural Mesh Generation.
 
 ## How it Works
 
