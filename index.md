@@ -1,5 +1,17 @@
 # 📒
 
+### [Log #3](log-3.md)
+
+<hr/>
+
+**Title:** Crossing Detection in Unity
+
+**Description:**
+
+How do we detect if an object crosses a boundary in Unity? It's a bit more complicated than you might think.
+
+**Date:** 19/12/2024
+
 ### [Log #2](log-2.md)
 
 <hr/>
