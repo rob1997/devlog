@@ -1,5 +1,7 @@
 # Crossing Detection in Unity
 
+![demo](assets/log-3/demo.gif)
+
 I was recently working on training a self-driving Agent using Reinforcement Learning in Unity and the track I was using to train the Agent used checkpoints to determine the progress of the Agent. So I would need to detect when an Agent crosses a checkpoint.
 
 This problem isn't unique to checkpoints, it can arise in any scenario that involves detecting a boundary crossing. It could be portals/gateways, area damage (for example when you step into fire) or hit detection.
