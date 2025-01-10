@@ -11,7 +11,7 @@ Useful References:
 
 ## Demo
 
-<iframe src="https://rob1997.github.io/kart-ai/" title="Demo" width="75%"></iframe>
+<iframe src="https://rob1997.github.io/kart-ai/" title="Demo" width="100%"></iframe>
 
 ## Environment
 
