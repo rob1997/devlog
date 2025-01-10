@@ -2,6 +2,8 @@
 
 <a href="https://github.com/rob1997/kart-ai/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" target="_blank"></a> <a href="https://rob1997.github.io/kart-ai/"><img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge" alt="WebGL" target="_blank"></a>
 
+![demo](assets/log-4/demo.gif)
+
 In the age of ChatGPT and Gemini, I wanted to experiment with AI's application in Gaming. I experimented with Unity's [ML-Agents](https://unity-technologies.github.io/ml-agents/) a few years ago and I hadn't seen any practical use for it, but a lot has changed since then so I thought I could give it another go. The problem, train a self-driving Kart Agent that'll beat real people in a race around a track.
 
 Useful References:
@@ -124,6 +126,8 @@ reward += reward * math.clamp(speedFactor, 0, 1);
 We give a reward of 1 when the Agent passes a checkpoint. A more detailed explanation of how we detect a checkpoint crossing can be found [here](log-3.md).
 
 ## Training
+
+![training_1](assets/log-4/training_1.gif)
 
 In the Training scene there's a total of 16 environments, each with a single Agent, training simultaneously. Each of these environments has a varied number of checkpoints by a factor of 3 (3 - 48) to simulate a more varied distance between checkpoints.
 
