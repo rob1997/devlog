@@ -9,9 +9,12 @@ Useful References:
 - [Machine Learning](https://unity-technologies.github.io/ml-agents/Background-Machine-Learning/)
 - [Unity](https://unity-technologies.github.io/ml-agents/Background-Unity/)
 
-## Demo
-
+<details>
+<summary>Demo</summary>
+<br>
 <iframe src="https://rob1997.github.io/kart-ai/" title="Demo" width="100%" height="500px"></iframe>
+</details>
+
 
 ## Environment
 
