@@ -1,5 +1,17 @@
 # 📒
 
+### [Log #4](log-4.md)
+
+<hr/>
+
+**Title:** Kart AI
+
+**Description:**
+
+A racing kart AI implementation using Reinforcement Machine Learning with [ML-Agents](https://unity-technologies.github.io/ml-agents/ML-Agents-Overview/).
+
+**Date:** 10/1/2025
+
 ### [Log #3](log-3.md)
 
 <hr/>
