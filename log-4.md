@@ -1,6 +1,6 @@
 # Kart AI
 
-<a href="https://github.com/rob1997/kart-ai/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" target="_blank"></a>
+<a href="https://github.com/rob1997/kart-ai/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" target="_blank"></a> <a href="https://rob1997.github.io/kart-ai/"><img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge" alt="WebGL" target="_blank"></a>
 
 In the age of ChatGPT and Gemini, I wanted to experiment with AI's application in Gaming. I experimented with Unity's [ML-Agents](https://unity-technologies.github.io/ml-agents/) a few years ago and I hadn't seen any practical use for it, but a lot has changed since then so I thought I could give it another go. The problem, train a self-driving Kart Agent that'll beat real people in a race around a track.
 
@@ -8,13 +8,7 @@ Useful References:
 - [ML-Agents](https://unity-technologies.github.io/ml-agents/ML-Agents-Overview/)
 - [Machine Learning](https://unity-technologies.github.io/ml-agents/Background-Machine-Learning/)
 - [Unity](https://unity-technologies.github.io/ml-agents/Background-Unity/)
-
-<details>
-<summary>Demo</summary>
-<br>
-<iframe src="https://rob1997.github.io/kart-ai/" title="Demo" width="100%" height="500px"></iframe>
-</details>
-
+- [Demo](https://rob1997.github.io/kart-ai/)
 
 ## Environment
 
