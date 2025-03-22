@@ -1,5 +1,17 @@
 # 📒
 
+### [Log #5](log-5.md)
+
+<hr/>
+
+**Title:** CerBro
+
+**Description:**
+
+A model-agnostic AI Agent Wrapper for .Net that helps you write Tools that can be used with different AI models without changing the code.
+
+**Date:** 23/3/2025
+
 ### [Log #4](log-4.md)
 
 <hr/>
